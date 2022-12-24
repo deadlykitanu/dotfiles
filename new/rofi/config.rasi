@@ -1,0 +1,20 @@
+configuration{
+    modi: "run,drun,window";
+    font: "JetBrainsMono Nerd Font 11";
+    icon-theme: "Tela grey";
+    show-icons: true;
+    terminal: "alacritty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: false;
+    //display-drun: "   Apps ";
+    //display-run: "   Run ";
+    //display-window: " 﩯  Window";
+    //display-Network: " 󰤨  Network";
+    sidebar-mode: false;
+}
+
+@theme "rounded-blue-dark"
+
+
